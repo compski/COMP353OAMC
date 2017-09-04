@@ -1,5 +1,5 @@
 COMP 353 Summer 2015 Project (Open Access Medical Center)
-asdfhadf
+
 =========================================================
 
 This is the play application we are going to use to write the project.
